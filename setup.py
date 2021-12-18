@@ -8,7 +8,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'cached-property',
-        'django==3.1.14',
+        'django==3.2.10',
         'enum34;python_version<"3.4"',
         'futures;python_version<"3"',
         'requests',
